@@ -94,3 +94,14 @@ ENV/
 
 # textbook
 DMABOOK.pdf
+
+# Assignments
+
+# data from assignment 1
+assignments/a1/data
+
+
+# Lectures
+
+# data from lecture 2
+lectures/lect02/data
