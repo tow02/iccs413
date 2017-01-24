@@ -100,6 +100,10 @@ DMABOOK.pdf
 # data from assignment 1
 assignments/a1/data
 
+# steam api key
+assignments/a2/secret.json
+# pickle file
+assignments/a2/matches.p
 
 # Lectures
 
